@@ -26,18 +26,18 @@ Below is an example of what this builder will create.
 
 | Resolutions | Editions            | Video Formats         | Audio Formats      |
 | -           | -                   | -                     | -                  |
-| 2160p (4K)  | Anniversary Edition | HDR                   | Dolby Digital Plus |
-| 1080p (HD)  | Collector's Edition | HDR10+                | DTS-HD MA          |
-|             | Director's Cut      | Dolby Vision          | Dolby Atmos        |
-|             | Extended Cut        | Dolby Vision + HDR    | Dolby TrueHD Atmos |
-|             | Extended Edition    | Dolby Vision + HDR10+ |                    |
+| 2160p (4K)  | Anniversary Edition | HDR                   | Dolby Digital      |
+| 1080p (HD)  | Collector's Edition | HDR10+                | Dolby Digital Plus |
+|             | Director's Cut      | Dolby Vision          | DTS-HD MA          |
+|             | Extended Cut        | Dolby Vision + HDR    | Dolby Atmos        |
+|             | Extended Edition    | Dolby Vision + HDR10+ | Dolby TrueHD Atmos |
 |             | IMAX / (Enhanced)   |                       |                    |
 |             | Minus Color         |                       |                    |
 |             | Special Edition     |                       |                    |
 |             | Unrated Edition     |                       |                    |
 
 > [!NOTE]
-> Only "High Quality" formats are intended to be supported.
+> Only "High Quality" formats are intended to be supported, but I am trying to maximise the full range of quality's - Fearless.
 >
 > Dolby Vision with HDR/HDR10+ fallback support is correctly detected and matched separately from exclusive DV, but only Dolby Vision will be visibly shown for those files. See examples at the bottom for an alternative option.
 
