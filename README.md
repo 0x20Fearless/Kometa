@@ -1,6 +1,6 @@
 # Kometa
 
-Collection of my custom overlay builders for Kometa
+Collection of my custom overlay builders for Kometa forked from jmxd/Kometa and with added lower audiocodecs
 
 ## audience_rating.yml
 
